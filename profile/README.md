@@ -65,4 +65,4 @@ We are building Shopyos as more than a single marketplace. Our long-term goal is
 **Shopyos**
 Building technology for commerce, businesses, and consumers.
 
-[Webswhatite](https://shopyosgh.com)
+[Website](https://shopyosgh.com)
